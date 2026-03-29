@@ -1,3 +1,6 @@
-function calculate(var1, var2){
-    return var1 + var2;
+// add two numbers
+function add(a, b) {
+    return a + b;
 }
+// input: 2, 3
+// output: 5
